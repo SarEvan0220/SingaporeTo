@@ -1,0 +1,123 @@
+*
+{
+    margin: 3px;
+    padding: 3px;
+}
+.gallary img
+{
+    height: 500px;
+    width: 1300px;
+    border: 3px dotted rgb(231, 29, 29);
+    margin-left: 30px;
+    margin-top: 80px;
+    position: absolute;
+    object-fit: cover;
+
+}
+.img1
+{
+    margin-top: 10px;
+    margin-left: 1%;
+    width: 10%;
+    height: 1px;
+    object-fit: cover;
+    position: absolute;
+    
+}
+.para1
+{
+    margin-top: 15%;
+    text-align:left;
+    text-decoration: none;
+    font-family: cursive;
+}
+.para2
+{
+    margin-top: 43%;
+    text-align:left;
+    text-decoration: none;
+    font-family: cursive;
+}
+.img2
+{
+    margin-top: 60px;
+    margin-left: 2%;
+    width: 200%;
+    height: 200px;
+   
+    object-fit: cover;
+    position: absolute;
+    
+}
+.para3
+{
+    margin-top: 35%;
+    text-align:left;
+    text-decoration: none;
+    font-family: cursive;
+}
+.img3
+{
+    margin-top: 2px;
+    margin-left: 2%;
+    width: 90%;
+    height: 500px;
+    object-fit: cover;
+    position: absolute;
+    
+}
+.para4
+{
+    margin-top: 24%;
+    text-align:left;
+    text-decoration: none;
+    font-family: cursive;
+}
+.img4
+{
+    margin-top: 50px;
+    margin-left: 2%;
+    width: 150%;
+    height: 100px;
+    object-fit: cover;
+    position: absolute;
+    
+}
+.para5
+{
+    margin-top: 30%;
+    text-align:left;
+    text-decoration: none;
+    font-family: cursive;
+}
+.img5
+{
+    margin-top: 50px;
+    margin-left: 2%;
+    width: 350%;
+    height: 300px;
+    object-fit: cover;
+    position: absolute;
+    
+}
+.para6
+{
+    margin-top: 30%;
+    text-align:left;
+    text-decoration: none;
+    font-family: cursive;
+}
+.footer
+{
+    background-color: darkgray;
+
+}
+.class1 ul li,.class2 ul,li .class3 ul li{
+    list-style-type: square;
+    
+}
+.footer{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
